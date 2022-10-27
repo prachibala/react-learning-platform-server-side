@@ -16,3 +16,7 @@ app.get("/course/:id", (req, res) => {
     const getSingleItem = allCourses?.find((p) => p.id == id);
     res.send(getSingleItem);
 });
+
+app.listen(port, () => {
+    console.log(`Example app listening on port ${port}`);
+});
