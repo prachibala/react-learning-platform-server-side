@@ -1,0 +1,79 @@
+[
+    {
+        "id": 1,
+        "title": "ANGULAR",
+        "time": 10,
+        "img": "https://miro.medium.com/max/1400/0*3tPAAtU6SWhGwX58.png",
+        "body": "Angular is a TypeScript-based free and open-source web application framework led by the Angular Team at Google and by a community of individuals and corporations."
+    },
+    {
+        "id": 2,
+        "title": "jQuery",
+        "time": 15,
+        "img": "https://4.bp.blogspot.com/-J6yPcDCmk5w/VOsya5JPDiI/AAAAAAAAChA/V3kcmDdbmpQ/w1200-h630-p-k-no-nu/jQuery%2BInterview%2BQuestions%2Band%2BAnswers.png",
+        "body": "jQuery is a JavaScript library designed to simplify HTML DOM tree traversal and manipulation, as well as event handling, CSS animation, and Ajax. It is free. "
+    },
+    {
+        "id": 3,
+        "title": "HTML",
+        "time": 30,
+        "img": "https://nsdarabia.com/customers_demos/new_Nouveltech/images/html.jpg",
+        "body": "The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologie."
+    },
+    {
+        "id": 4,
+        "title": "C++",
+        "time": 5,
+        "img": "https://www.educative.io/v2api/editorpage/5393602882568192/image/6038586442907648",
+        "body": "C++ is a general-purpose programming language created by Danish computer scientist Bjarne Stroustrup as an extension of the C programming language."
+    },
+    {
+        "id": 5,
+        "title": "Python",
+        "time": 20,
+        "img": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/BFMMlbcQvml9HSqXcvNp",
+        "body": "Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. "
+    },
+    {
+        "id": 6,
+        "title": "C",
+        "time": 10,
+        "img": "https://miro.medium.com/max/750/0*tc5hGik294F0OmbC",
+        "body": "C is a general-purpose computer programming language. It was created in the 1970s by Dennis Ritchie, and remains very widely used and influential. "
+    },
+    {
+        "id": 2,
+        "title": "Java",
+        "time": 5,
+        "img": "https://www.filepicker.io/api/file/t12BZqmRoulvCTDhoYie",
+        "body": "Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible."
+    },
+    {
+        "id": 4,
+        "title": "Node.js",
+        "time": 19,
+        "img": "https://miro.medium.com/max/750/0*KFu4aHUCJjbKI5iw.jpg",
+        "body": "Node.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on a JavaScript Engine executes JavaScript  web browser."
+    },
+    {
+        "id": 1,
+        "title": "Node.js",
+        "time": 19,
+        "img": "https://miro.medium.com/max/750/0*KFu4aHUCJjbKI5iw.jpg",
+        "body": "Node.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on a JavaScript Engine executes JavaScript  web browser."
+    },
+    {
+        "id": 6,
+        "title": "Node.js",
+        "time": 19,
+        "img": "https://miro.medium.com/max/750/0*KFu4aHUCJjbKI5iw.jpg",
+        "body": "Node.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on a JavaScript Engine executes JavaScript  web browser."
+    },
+    {
+        "id": 3,
+        "title": "React",
+        "time": 33,
+        "img": "https://reactjs.org/logo-og.png",
+        "body": "React is a free and open-source front-end JavaScript library for building user interfaces based on UI components.at is maintained by Meta and a community of."
+    }
+]
