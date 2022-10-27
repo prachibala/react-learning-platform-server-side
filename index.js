@@ -11,3 +11,8 @@ app.get("/", (req, res) => {
 app.get("/allCourses", (req, res) => {
     res.send(allCourses);
 });
+app.get("/course/:id", (req, res) => {
+    const id = req.params.id;
+    const getSingleItem = allCourses?.find((p) => p.id == id);
+    res.send(getSingleItem);
+});
