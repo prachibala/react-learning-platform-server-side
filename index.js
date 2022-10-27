@@ -16,7 +16,15 @@ app.get("/course/:id", (req, res) => {
     const getSingleItem = allCourses?.find((p) => p.id == id);
     res.send(getSingleItem);
 });
+app.get("/category/:name", (req, res) => {
+    const name = req.params.name;
+    const getCategory = allCourses?.filter((p) => p.category == name);
+    res.send(getCategory);
+});
 
 app.listen(port, () => {
     console.log(`Example app listening on port ${port}`);
 });
+
+// Export the Express API
+module.exports = app;
